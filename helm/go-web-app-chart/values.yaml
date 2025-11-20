@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: aveelash/go-web-app
   pullPolicy: IfNotPresent
-  tag: "19536198301"
+  tag: "19536232602"
 
 ingress:
   enabled: false
